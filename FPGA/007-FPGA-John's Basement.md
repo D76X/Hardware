@@ -7,6 +7,12 @@
 
 ---
 
+# Toolchain
+
+[FPGA #2 - Installing the Icestorm Toolchain John's Basement](https://www.youtube.com/watch?v=Bfhnu9XUzLs)  
+
+---
+
 # iCE40 LP/HX Family
 
 [FPGA #3 - ICE40HX Architecture & Datasheet John's Basement](https://www.youtube.com/watch?v=OlrinfO_TPY)  
