@@ -9,3 +9,7 @@
 ---
 
 [FreeCAD 1.1.1 — The Basic Part Design Tutorial from the Official Documentation Stolz3D | CAD done right](https://www.youtube.com/watch?v=0-Chk84Le9E)   
+
+---
+
+[Die Übungsaufgabe hat mich gefordert - FreeCAD 1.0 Tutorial "Shaft" Stolz3D | CAD done right](https://www.youtube.com/watch?v=ehcqYtBv49A)

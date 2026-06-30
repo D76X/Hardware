@@ -10,6 +10,10 @@
 
 [FreeCAD for Woodworkers by Glasson Design Studio](https://www.youtube.com/playlist?list=PLNKr-ocZWgQ66AX5y3uY71SCTClpUpGrt)  
 
+[Howto model the Mortice and Tenon joint in FreeCAD Glasson Design Studio](https://www.youtube.com/watch?v=JDPv9tBcjGE&list=PLNKr-ocZWgQ66AX5y3uY71SCTClpUpGrt&index=2)  
+
+---
+
 [Intro To FreeCAD Practical Woodworking Example Adventures in creation](https://www.youtube.com/watch?v=tKiXYO0TyaQ)  
 
 ---
