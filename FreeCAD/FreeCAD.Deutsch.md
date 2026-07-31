@@ -1,5 +1,19 @@
 # FreeCAD auf Deutsch
 
+# FreeCAD
+
+[FreeCAD-DACH Playlist](https://www.youtube.com/@freecad-dach2022/playlists)
+
+## Sketcher
+
+[Sketcher by FreeCAD-DACH](https://www.youtube.com/playlist?list=PLWa1XJSQG-xSERHgww4RPwTrZ2zDEvy6x)
+
+[FreeCAD 1.0 - Binder und Variablensatz FreeCAD-DACH](https://www.youtube.com/watch?v=pyPRP7sc8uw&list=PLWa1XJSQG-xSERHgww4RPwTrZ2zDEvy6x)  
+
+---
+
+# Stolz3D
+
 [FreeCAD 1.1 - GRUNDKURS 2026 - Stolz3D by Stolz3D | CAD done right](https://www.youtube.com/playlist?list=PLw48L7HmCgMI8V0vD4lAWlSNu3NQwjYrE)    
 
 [FreeCAD - Quick Start in 13 Minutes - FreeCAD 1.1 Basic Course 2026 - Lesson 1](https://www.youtube.com/watch?v=z-IXY8jmJWs&list=PLw48L7HmCgMI8V0vD4lAWlSNu3NQwjYrE)  
