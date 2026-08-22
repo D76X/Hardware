@@ -13,6 +13,29 @@ The following cover the basics of ERC and DRC rules in KiCad.
 
 ---
 
+# DRC: KiCad DRC Circle on F.Silkscreen
+
+F.Silkscreen layer, it usually means the silk ink overlaps an exposed copper pad, 
+crosses the board edge, or violates clearance settings.
+
+## To fix DRC errors related to a silkscreen circle:
+
+- Check Pad Overlap: 
+
+Move the circle away from any component pads. Silkscreen ink should not land 
+on bare copper because it can disrupt soldering.
+
+- Adjust Clearance Settings: 
+
+Adjust the `silkscreen-to-pad` or `silkscreen-to-edge` clearance limits in 
+your KiCad Design Rules if your manufacturer allows tighter tolerances.
+
+- Check Board Edge: 
+
+Pull the circle inside the board boundary if it touches or goes past the edge cut layer.Modify Line Width: Right-click the circle, open Properties, and reduce the line thickness if it is too wide for your design rules.
+
+---
+
 # DRC: kicad annular width (board setup constraints min 0.1000 mm; actual 0.0500 mm)
 
 In KiCad, the Annular Width (or minimum annular ring) constraint defines 
