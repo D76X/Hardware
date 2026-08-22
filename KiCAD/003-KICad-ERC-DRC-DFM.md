@@ -1,5 +1,48 @@
 # ERC & DRC rules
 
+## ERC (Electrical Rule Check)
+
+- What it does: 
+Analyzes your schematic diagram before layout.
+
+- Focus: 
+Logical and electrical connections.
+
+- Catches: 
+Unconnected pins, conflicting outputs tied together, floating inputs, or missing power/ground connections.
+
+---
+
+## DRC (Design Rule Check)
+
+- What it does: 
+Analyzes your physical PCB layout.
+
+- Focus: 
+Geometric and spatial constraints.
+
+- Catches: 
+Trace-to-trace clearances, short circuits, improper clearance near board edges, 
+and broken or insufficient annular rings.
+
+---
+
+## DFM (Design for Manufacturability)
+
+- What it does: 
+Evaluates whether your physical layout can be reliably and cost-effectively built 
+by a fabrication plant.
+
+- Focus: 
+Factory constraints and production yield.
+
+- Catches: 
+
+Acid traps, drill-to-copper spacing issues, solder mask slivers, or copper weights/trace 
+sizes that sit outside your specific manufacturer's tolerance limits.
+
+---
+
 The following cover the basics of ERC and DRC rules in KiCad.
 
 [11 KiCad ERC Tutorial: Running Electrical Rule Check and Exploring Schematic Setup for Rule Checkers  Tech Record](https://www.youtube.com/watch?v=TZ34jARJMVo)
