@@ -1,5 +1,12 @@
 # FreeCAD auf Deutsch
 
+
+---
+
+# Dr. Klipper
+
+[FreeCAD 1.x Kurs - Einstellungen Dr. Klipper](https://www.youtube.com/watch?v=bPfzHgd_Zkk)  
+
 ---
 
 # FreeCAD-DACH
