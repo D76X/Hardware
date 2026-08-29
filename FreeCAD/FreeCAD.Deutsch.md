@@ -25,6 +25,10 @@
 
 [FreeCAD Grundlagen Tutorials Deutsch by Markus Mele-Schraven](https://www.youtube.com/playlist?list=PLqYHHYhYGYWeDPcmPz4GSwEvV1map_bkm)  
 
+[FreeCAD Tutorial German 1 - simple component Markus Mele-Schraven](https://www.youtube.com/watch?v=HjG6lmDNvB4&list=PLqYHHYhYGYWeDPcmPz4GSwEvV1map_bkm&index=1)  
+
+[FreeCAD Tutorial English 13 - Variables Markus Mele-Schraven](https://www.youtube.com/watch?v=RWnXzyzO2eQ)  
+
 ---
 
 # Stolz3D
