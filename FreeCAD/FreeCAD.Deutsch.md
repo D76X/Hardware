@@ -82,3 +82,38 @@ Ein Kleidungsstück gut polstern
 sie ist finanziell gut or komfortabel gepolstert
 
 ---
+
+[abhacken](https://www.collinsdictionary.com/dictionary/german-english/abhacken)
+=
+[abhauen](https://www.collinsdictionary.com/dictionary/german-english/abhauen)
+(= ausschneiden)
+eine Rübe mit der Hand abhacken
+!=
+[abhaken](https://www.collinsdictionary.com/dictionary/german-english/abhaken)
+(= markieren) | (= abnehmen) 
+[ankreuzen](https://www.collinsdictionary.com/dictionary/german-english/ankreuzen)
+
+[orientieren](https://www.collinsdictionary.com/dictionary/german-english/orientieren)
+> die Orientiurung
+
+die [Achse](https://www.collinsdictionary.com/dictionary/german-english/achse)  
+> die Achsen
+
+Man kann immer diese Einstellung **abhaken**, wenn sie nicht angewendet werden muss.
+
+Viele von diesen **Anzeigeeinstellungen** können abgehakt werden.
+
+Die Einstellung für das **Koordinatensystem** anzeigen, kann man ankreuzen.
+
+Es wird sehr praktisch, die Achsen des Koordinatensystems anzeigen (zu) lassen, 
+weil es bei der **Orientierung** hilft.
+
+---
+
+> die Kantenglättung
+[glätten](https://www.collinsdictionary.com/dictionary/german-english/glatten)  
+(= Haar oder Tuch glatt machen oder streichen) 
+
+In FreeCAD, die Kantenglättung auf 1 mm setzen.
+
+---
