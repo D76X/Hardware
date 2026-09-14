@@ -5,7 +5,27 @@
 
 # Dr. Klipper
 
+[FreeCAD Kurs Playlist by Dr. Klipper](https://www.youtube.com/playlist?list=PLbNI1Rcik-oISs4FpzWlaM96WT4gVNINB)  
+
+---
+
+[#144 - FreeCAD 1 x Kurs - Installation Dr. Klipper](https://www.youtube.com/watch?v=PmQrobCfHpA&list=PLbNI1Rcik-oISs4FpzWlaM96WT4gVNINB&index=9)  
+
+> in Bezug auf + NOM
+> außer = abgesehen von
+> Bugs bereinigen
+> getan worden sind
+> optische Aufvertung, aufwerten
+
+In der Version 1.1 von FreeCAD gibt es keine neuen Funktionen in Bezug auf die Version 1.0, 
+außer einigen Bugs, die bereinigt worden sind. Außerdem bietet diese Version auch eine optische Aufwertung an.
+
+
+---
+
 [FreeCAD 1.x Kurs - Einstellungen Dr. Klipper](https://www.youtube.com/watch?v=bPfzHgd_Zkk)  
+[FreeCAD and 3Dconnexion Boost your workflow](https://3dconnexion.com/uk/applications/freecad-freecad/)  
+[FreeCAD + 3Dconnexion Optimiere deinen Workflow](https://3dconnexion.com/de/applications/freecad-freecad/)  
 
 ---
 
