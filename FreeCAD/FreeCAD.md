@@ -19,3 +19,26 @@
 [Intro To FreeCAD Practical Woodworking Example Adventures in creation](https://www.youtube.com/watch?v=tKiXYO0TyaQ)  
 
 ---
+
+# FreeCAD Addons
+
+---
+
+# FreeCAD 3Dconnexion?
+
+[FreeCAD and 3Dconnexion Boost your workflow](https://3dconnexion.com/uk/applications/freecad-freecad/)  
+[FreeCAD + 3Dconnexion Optimiere deinen Workflow](https://3dconnexion.com/de/applications/freecad-freecad/)  
+
+> Refs:
+[FreeCAD 1.x Kurs - Einstellungen Dr. Klipper](https://www.youtube.com/watch?v=bPfzHgd_Zkk)  
+
+---
+
+# FreeCAD  OpenTheme
+
+[FreeCAD OpenTheme](https://github.com/obelisk79/opentheme)
+
+> Refs:
+[147 - FreeCAD 1.x Course - Interface Dr. Klipper](https://www.youtube.com/watch?v=c93lhrn4rKE&list=PLbNI1Rcik-oISs4FpzWlaM96WT4gVNINB&index=9)  
+
+---
