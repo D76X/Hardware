@@ -20,3 +20,11 @@
 [2057-ICE40HX4K-TQ144-breakout](https://github.com/johnwinans/2057-ICE40HX4K-TQ144-breakout)   
 
 ---
+
+[FPGA #4 - ICE40HX Simple Breakout Board Schematic John's Basement](https://www.youtube.com/watch?v=yWLgxug_TMk)   
+
+---
+
+[FPGA #5 - Surface Mount Soldering (parts 1 and 2) John's Basement](https://www.youtube.com/watch?v=owRspL7z4FM&t=34s)  
+
+---
