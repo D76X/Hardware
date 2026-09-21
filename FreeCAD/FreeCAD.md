@@ -42,7 +42,7 @@
 [FreeCAD Wiki - Mouse Navigation](https://wiki.freecad.org/Mouse_navigation/en)
 
 > Refs:
-[FreeCAD 1.x Kurs - Einstellungen Dr. Klipper](https://www.youtube.com/watch?v=bPfzHgd_Zkk)  
+[145 - FreeCAD 1.x Kurs - Einstellungen Dr. Klipper](https://www.youtube.com/watch?v=bPfzHgd_Zkk)  
 
 [147 - FreeCAD 1.x Kurs - Oberfläche Dr. Klipper](https://www.youtube.com/watch?v=c93lhrn4rKE&t=1019s)  
 
