@@ -46,9 +46,11 @@ außer einigen Bugs, die bereinigt worden sind. Außerdem bietet diese Version a
 
 [FreeCAD Grundlagen Tutorials Deutsch by Markus Mele-Schraven](https://www.youtube.com/playlist?list=PLqYHHYhYGYWeDPcmPz4GSwEvV1map_bkm)  
 
-[FreeCAD Tutorial German 1 - simple component Markus Mele-Schraven](https://www.youtube.com/watch?v=HjG6lmDNvB4&list=PLqYHHYhYGYWeDPcmPz4GSwEvV1map_bkm&index=1)  
-
 [FreeCAD Tutorial English 13 - Variables Markus Mele-Schraven](https://www.youtube.com/watch?v=RWnXzyzO2eQ)  
+
+[FreeCAD Tutorial Deutsch 2 - Baugruppe Markus Mele-Schraven](https://www.youtube.com/watch?v=Hp7ybWSKvH8&list=PLqYHHYhYGYWeDPcmPz4GSwEvV1map_bkm&index=2)  
+
+[FreeCAD Tutorial German 1 - simple component Markus Mele-Schraven](https://www.youtube.com/watch?v=HjG6lmDNvB4&list=PLqYHHYhYGYWeDPcmPz4GSwEvV1map_bkm&index=1)  
 
 ---
 
@@ -67,6 +69,41 @@ außer einigen Bugs, die bereinigt worden sind. Außerdem bietet diese Version a
 ---
 
 # Wortschatz
+
+> die Abstandsverbindung
+Das bedeutet, dass ich platzieren twei Komponenten gegeneinnader mit einem gewissen Abstand,
+oder auch mit keinen Abstand.
+
+> die Baugruppe, die Verbindungen
+"Assembly" ist das englische Begriff für Baugruppe und man meint mit "Joins" die Verbindungen oder 
+Abhängigkeiten zwischen die verschidenen Bauteilen einer Baugruppe.
+
+> custommäßig = maßgeschneidert
+Ein maßgeschneideiderter Bauteil.
+Der Bauteil ist custommäßig.
+
+[überlagern](https://www.collinsdictionary.com/dictionary/german-english/uberlagern)
+Die Zeichnungen überlagern sich teilweise.
+
+[Überlagerung](https://www.collinsdictionary.com/dictionary/german-english/uberlagerung)
+Man soll die Überlagerung der Zeichnungen vermeiden.
+
+> die isometrische Ansicht 
+
+[justieren](https://www.collinsdictionary.com/dictionary/german-english/justieren)  
+Doe Zeichnung nachjustieren.
+
+> hatch, hatching
+[schraffieren](https://www.collinsdictionary.com/dictionary/german-english/schraffieren)
+[Schraffierung](https://www.collinsdictionary.com/dictionary/german-english/schraffierung)  
+
+> shade, shading
+[schattieren](https://www.collinsdictionary.com/dictionary/german-english/schattieren) 
+[Schattierung](https://www.collinsdictionary.com/dictionary/german-english/schattierung)
+
+> sich aufeinander ausgerichten sein [to align to each other]
+
+---
 
 > selektieren
 eine Geometrie selektieren
