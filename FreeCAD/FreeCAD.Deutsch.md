@@ -48,6 +48,8 @@ außer einigen Bugs, die bereinigt worden sind. Außerdem bietet diese Version a
 
 [FreeCAD Tutorial English 13 - Variables Markus Mele-Schraven](https://www.youtube.com/watch?v=RWnXzyzO2eQ)  
 
+[FreeCAD Tutorial Deutsch 3 - Tech Draw Markus Mele-Schraven](https://www.youtube.com/watch?v=xkH4JNpHTsE&list=PLqYHHYhYGYWeDPcmPz4GSwEvV1map_bkm&index=3)  
+
 [FreeCAD Tutorial Deutsch 2 - Baugruppe Markus Mele-Schraven](https://www.youtube.com/watch?v=Hp7ybWSKvH8&list=PLqYHHYhYGYWeDPcmPz4GSwEvV1map_bkm&index=2)  
 
 [FreeCAD Tutorial German 1 - simple component Markus Mele-Schraven](https://www.youtube.com/watch?v=HjG6lmDNvB4&list=PLqYHHYhYGYWeDPcmPz4GSwEvV1map_bkm&index=1)  
@@ -69,6 +71,34 @@ außer einigen Bugs, die bereinigt worden sind. Außerdem bietet diese Version a
 ---
 
 # Wortschatz
+
+> spiegelsimetrich, Mittellinie, einkürzen, verlängern, die Korperkante, hinausragen
+Die Teil sehen gleich rechts und links, deßhalb spricht man über spiegelsimetriche Teile über eine Ebene oder eine Achse.
+Man fügt die Zeichnung mit einer Mittellinie ein.
+Man soll auch die Mittellinie einkürzen oder verlängern, so dass sie ein bischien über die Ansciht der Korperkante hinausragen.
+
+> skalieren
+Die Zeichnung oder die Ansicht richtig und vernünftig skalieren.
+Eins zu eins skaliert sein.
+Man wird die Zeiuchnung bemaßen.
+Man wird die die Bemaßungen der Zeiuchnung setzen / einfügen.
+
+> Tastenkombinazionen, Tastenkürzel
+
+> das Knotenblech (Knotenplatte) [Gusset plate]
+
+## Was ist ein Knotenblech?
+
+Ein Knotenblech (auch Knotenplatte genannt) ist ein verbindendes Bauteil im Konstruktions- 
+und Ingenieurbau, insbesondere im Stahl-, Holz- und Leichtbau. Es dient dazu, mehrere 
+aufeinandertreffende Stäbe oder Träger an einem gemeinsamen Verbindungspunkt (dem Knotenpunkt) 
+stabil und tragfähig miteinander zu fügen.
+
+> Drehstarre, Drehstarreverbindung, drehstarre Kupplung
+
+Eine drehstarre Kupplung (auch torsionssteife oder verdrehsteife Kupplung genannt) ist 
+ein Maschinenelement in der Antriebstechnik, das ein Drehmoment nahezu ohne Verdrehwinkel 
+von einer Welle auf eine andere überträgt.
 
 > die Abstandsverbindung
 Das bedeutet, dass ich platzieren twei Komponenten gegeneinnader mit einem gewissen Abstand,
