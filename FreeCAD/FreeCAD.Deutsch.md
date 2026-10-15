@@ -49,9 +49,13 @@ außer einigen Bugs, die bereinigt worden sind. Außerdem bietet diese Version a
 
 [FreeCAD Grundlagen Tutorials Deutsch by Markus Mele-Schraven](https://www.youtube.com/playlist?list=PLqYHHYhYGYWeDPcmPz4GSwEvV1map_bkm)  
 
-[FreeCAD Tutorial German 1 - simple component Markus Mele-Schraven](https://www.youtube.com/watch?v=HjG6lmDNvB4&list=PLqYHHYhYGYWeDPcmPz4GSwEvV1map_bkm&index=1)  
-
 [FreeCAD Tutorial English 13 - Variables Markus Mele-Schraven](https://www.youtube.com/watch?v=RWnXzyzO2eQ)  
+
+[FreeCAD Tutorial Deutsch 3 - Tech Draw Markus Mele-Schraven](https://www.youtube.com/watch?v=xkH4JNpHTsE&list=PLqYHHYhYGYWeDPcmPz4GSwEvV1map_bkm&index=3)  
+
+[FreeCAD Tutorial Deutsch 2 - Baugruppe Markus Mele-Schraven](https://www.youtube.com/watch?v=Hp7ybWSKvH8&list=PLqYHHYhYGYWeDPcmPz4GSwEvV1map_bkm&index=2)  
+
+[FreeCAD Tutorial German 1 - simple component Markus Mele-Schraven](https://www.youtube.com/watch?v=HjG6lmDNvB4&list=PLqYHHYhYGYWeDPcmPz4GSwEvV1map_bkm&index=1)  
 
 ---
 
@@ -71,6 +75,7 @@ außer einigen Bugs, die bereinigt worden sind. Außerdem bietet diese Version a
 
 # Wortschatz
 
+<<<<<<< HEAD
 > der Drehbank, das Schweißsymbol, der Schweißfachmann
 > quadratisch, fachmännisch
 [anschweissen](https://www.collinsdictionary.com/dictionary/german-english/anschweissen)
@@ -83,6 +88,70 @@ Schweißsymbole sollen für den Schweißfachmann ganz übersichtlich sein.
 
 > konzentrisch
 Die Mittlepunkte sind konzentrisch im Zentrum der Bohrung.
+=======
+> spiegelsimetrich, Mittellinie, einkürzen, verlängern, die Korperkante, hinausragen
+Die Teil sehen gleich rechts und links, deßhalb spricht man über spiegelsimetriche Teile über eine Ebene oder eine Achse.
+Man fügt die Zeichnung mit einer Mittellinie ein.
+Man soll auch die Mittellinie einkürzen oder verlängern, so dass sie ein bischien über die Ansciht der Korperkante hinausragen.
+
+> skalieren
+Die Zeichnung oder die Ansicht richtig und vernünftig skalieren.
+Eins zu eins skaliert sein.
+Man wird die Zeiuchnung bemaßen.
+Man wird die die Bemaßungen der Zeiuchnung setzen / einfügen.
+
+> Tastenkombinazionen, Tastenkürzel
+
+> das Knotenblech (Knotenplatte) [Gusset plate]
+
+## Was ist ein Knotenblech?
+
+Ein Knotenblech (auch Knotenplatte genannt) ist ein verbindendes Bauteil im Konstruktions- 
+und Ingenieurbau, insbesondere im Stahl-, Holz- und Leichtbau. Es dient dazu, mehrere 
+aufeinandertreffende Stäbe oder Träger an einem gemeinsamen Verbindungspunkt (dem Knotenpunkt) 
+stabil und tragfähig miteinander zu fügen.
+
+> Drehstarre, Drehstarreverbindung, drehstarre Kupplung
+
+Eine drehstarre Kupplung (auch torsionssteife oder verdrehsteife Kupplung genannt) ist 
+ein Maschinenelement in der Antriebstechnik, das ein Drehmoment nahezu ohne Verdrehwinkel 
+von einer Welle auf eine andere überträgt.
+
+> die Abstandsverbindung
+Das bedeutet, dass ich platzieren twei Komponenten gegeneinnader mit einem gewissen Abstand,
+oder auch mit keinen Abstand.
+
+> die Baugruppe, die Verbindungen
+"Assembly" ist das englische Begriff für Baugruppe und man meint mit "Joins" die Verbindungen oder 
+Abhängigkeiten zwischen die verschidenen Bauteilen einer Baugruppe.
+
+> custommäßig = maßgeschneidert
+Ein maßgeschneideiderter Bauteil.
+Der Bauteil ist custommäßig.
+
+[überlagern](https://www.collinsdictionary.com/dictionary/german-english/uberlagern)
+Die Zeichnungen überlagern sich teilweise.
+
+[Überlagerung](https://www.collinsdictionary.com/dictionary/german-english/uberlagerung)
+Man soll die Überlagerung der Zeichnungen vermeiden.
+
+> die isometrische Ansicht 
+
+[justieren](https://www.collinsdictionary.com/dictionary/german-english/justieren)  
+Doe Zeichnung nachjustieren.
+
+> hatch, hatching
+[schraffieren](https://www.collinsdictionary.com/dictionary/german-english/schraffieren)
+[Schraffierung](https://www.collinsdictionary.com/dictionary/german-english/schraffierung)  
+
+> shade, shading
+[schattieren](https://www.collinsdictionary.com/dictionary/german-english/schattieren) 
+[Schattierung](https://www.collinsdictionary.com/dictionary/german-english/schattierung)
+
+> sich aufeinander ausgerichten sein [to align to each other]
+
+---
+>>>>>>> 1af043061fa0b14d8ee6a37ae10b9e6467446b91
 
 > selektieren
 eine Geometrie selektieren
