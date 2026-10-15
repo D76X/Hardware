@@ -24,8 +24,11 @@ außer einigen Bugs, die bereinigt worden sind. Außerdem bietet diese Version a
 ---
 
 [FreeCAD 1.x Kurs - Einstellungen Dr. Klipper](https://www.youtube.com/watch?v=bPfzHgd_Zkk)  
+
 [FreeCAD and 3Dconnexion Boost your workflow](https://3dconnexion.com/uk/applications/freecad-freecad/)  
+
 [FreeCAD + 3Dconnexion Optimiere deinen Workflow](https://3dconnexion.com/de/applications/freecad-freecad/)  
+
 [147 - FreeCAD 1.x Course - Interface Dr. Klipper](https://www.youtube.com/watch?v=c93lhrn4rKE&list=PLbNI1Rcik-oISs4FpzWlaM96WT4gVNINB&index=9)  
 
 ---
@@ -67,6 +70,19 @@ außer einigen Bugs, die bereinigt worden sind. Außerdem bietet diese Version a
 ---
 
 # Wortschatz
+
+> der Drehbank, das Schweißsymbol, der Schweißfachmann
+> quadratisch, fachmännisch
+[anschweissen](https://www.collinsdictionary.com/dictionary/german-english/anschweissen)
+
+Ein rundes Stück Rohmaterial, das an der Drehbank verarbeitet werden kann.
+In der Herstellung des Bauteils werden die quadratischen Bleche abgesägt und 
+zugeschnitten und schließlich zusammen angeschweißt.
+
+Schweißsymbole sollen für den Schweißfachmann ganz übersichtlich sein.
+
+> konzentrisch
+Die Mittlepunkte sind konzentrisch im Zentrum der Bohrung.
 
 > selektieren
 eine Geometrie selektieren
