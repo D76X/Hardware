@@ -75,7 +75,6 @@ außer einigen Bugs, die bereinigt worden sind. Außerdem bietet diese Version a
 
 # Wortschatz
 
-<<<<<<< HEAD
 > der Drehbank, das Schweißsymbol, der Schweißfachmann
 > quadratisch, fachmännisch
 [anschweissen](https://www.collinsdictionary.com/dictionary/german-english/anschweissen)
@@ -88,7 +87,6 @@ Schweißsymbole sollen für den Schweißfachmann ganz übersichtlich sein.
 
 > konzentrisch
 Die Mittlepunkte sind konzentrisch im Zentrum der Bohrung.
-=======
 > spiegelsimetrich, Mittellinie, einkürzen, verlängern, die Korperkante, hinausragen
 Die Teil sehen gleich rechts und links, deßhalb spricht man über spiegelsimetriche Teile über eine Ebene oder eine Achse.
 Man fügt die Zeichnung mit einer Mittellinie ein.
@@ -151,7 +149,6 @@ Doe Zeichnung nachjustieren.
 > sich aufeinander ausgerichten sein [to align to each other]
 
 ---
->>>>>>> 1af043061fa0b14d8ee6a37ae10b9e6467446b91
 
 > selektieren
 eine Geometrie selektieren
