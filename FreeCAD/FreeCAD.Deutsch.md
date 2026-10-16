@@ -79,12 +79,14 @@ außer einigen Bugs, die bereinigt worden sind. Außerdem bietet diese Version a
 > die Spielpassung, der Parameter, Standardkopplungstoleranzen, der Standard
 > die Toleranz oder die Speilpassung angeben
 > die Passung = dir Paarung
+> die Außenkonturen bemaßen
+> ISO 2768
 [angeben](https://www.collinsdictionary.com/dictionary/german-english/angeben)
 [kuppeln](https://www.collinsdictionary.com/dictionary/german-english/kuppeln) [TECH. Mek.]
 [koppeln](https://www.collinsdictionary.com/dictionary/german-english/koppeln) [TECH. elektr.]
 
-
-Mit der Passung H7 wird man +0.025 mm für die Bohrung nutzen, so dass eine Welle h6
+Mit der Passung H7 wird man +0.025 mm für die Bohrung nutzen, so dass eine h6-Welle gut und einfach geht.
+Das heißt, eine 40 mm nominale H7-Bohrung hat 40.025 mm oberes Abmaß und 40.000 mm als unteres Amaß.
 
 Standardmäßig wird die Passung mit dem Groß H7 für die Bohrung und h6 für die Welle als völlig OK betrachtet.
 Diese Paarung wird manuell nicht zu schwierig zu machen.
