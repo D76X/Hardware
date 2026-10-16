@@ -75,6 +75,34 @@ außer einigen Bugs, die bereinigt worden sind. Außerdem bietet diese Version a
 
 # Wortschatz
 
+> Flüssigstickstoff, Bohrungspassung, die Toleranz, die Bohrung und die Welle
+> die Spielpassung, der Parameter, Standardkopplungstoleranzen, der Standard
+> die Toleranz oder die Speilpassung angeben
+> die Passung = dir Paarung
+[angeben](https://www.collinsdictionary.com/dictionary/german-english/angeben)
+[kuppeln](https://www.collinsdictionary.com/dictionary/german-english/kuppeln) [TECH. Mek.]
+[koppeln](https://www.collinsdictionary.com/dictionary/german-english/koppeln) [TECH. elektr.]
+
+
+Mit der Passung H7 wird man +0.025 mm für die Bohrung nutzen, so dass eine Welle h6
+
+Standardmäßig wird die Passung mit dem Groß H7 für die Bohrung und h6 für die Welle als völlig OK betrachtet.
+Diese Paarung wird manuell nicht zu schwierig zu machen.
+
+Die Spielpassung zwischen einer Bohrung und der entsprechenden Welle ist ein wichtiger Parameter, 
+den man bestimmen werden muss.
+
+Standardmäßig wird man die Toleranz als H7/h5, H6/h4 oder entsprechende Standardkopplungstoleranzen nutzen.
+Der ISO-Standard, der die Spielpassung der Kopplung zwischen einer Bohrung und einer Welle angibt, 
+kommt immer in der Form von Hx/hy, [wobei] der Bohrung Hx und [bei] der Welle hy wird.
+
+Man redet bei Bohrungen immer von Toleranzen.
+Man muss einen Toleranzbereich für jede Bohrung eingeben, der bestimmt, was für eine Kopplung die Bohrung wird.
+Jede Bohrung, die mit einer Welle gekuppelt wird, muss innerhalb einer entsprechenden Toleranz kommen.
+
+Wenn die Toleranz zwischen der Welle und der entsprechenden Bohrung sehr knapp ist, 
+wird man spezielle Kopplungsmethoden, wie z. B. Flüssigstickstoff, einsetzen.
+
 > der Drehbank, das Schweißsymbol, der Schweißfachmann
 > quadratisch, fachmännisch
 [anschweissen](https://www.collinsdictionary.com/dictionary/german-english/anschweissen)
