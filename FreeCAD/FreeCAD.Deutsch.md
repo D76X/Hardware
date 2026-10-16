@@ -79,8 +79,10 @@ außer einigen Bugs, die bereinigt worden sind. Außerdem bietet diese Version a
 > die Spielpassung, der Parameter, Standardkopplungstoleranzen, der Standard
 > die Toleranz oder die Speilpassung angeben
 > die Passung = dir Paarung
-> die Außenkonturen bemaßen
+> die Außenkonturen dementsprechend bemaßen
 > ISO 2768
+> Kehlnat [throat suture welding] -> Schweißsymbol -> der Schweißsymbol hat einen Kringel
+der [Kringel](https://www.collinsdictionary.com/dictionary/german-english/kringel) 
 [angeben](https://www.collinsdictionary.com/dictionary/german-english/angeben)
 [kuppeln](https://www.collinsdictionary.com/dictionary/german-english/kuppeln) [TECH. Mek.]
 [koppeln](https://www.collinsdictionary.com/dictionary/german-english/koppeln) [TECH. elektr.]
