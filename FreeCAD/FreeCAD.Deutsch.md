@@ -75,6 +75,11 @@ außer einigen Bugs, die bereinigt worden sind. Außerdem bietet diese Version a
 
 # Wortschatz
 
+> koaxial
+[koaxial](https://www.collinsdictionary.com/dictionary/german-english/koaxial)
+
+Die Teile mit der Bohrung soll koaxial sein.
+
 > Flüssigstickstoff, Bohrungspassung, die Toleranz, die Bohrung und die Welle
 > die Spielpassung, der Parameter, Standardkopplungstoleranzen, der Standard
 > die Toleranz oder die Speilpassung angeben

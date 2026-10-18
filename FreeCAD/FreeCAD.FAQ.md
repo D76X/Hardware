@@ -1,10 +1,57 @@
 # FreeCAD FAQ
 
+# What is the difference between an assembly project and a BIM/Architecture project in FreeCAD?
+
+The core difference between an **Assembly project** and a **BIM/Architecture project** in FreeCAD comes down to **what you are building, how the objects interact, and the data standards used**. They target entirely different industries (Mechanical Engineering vs. Architecture, Engineering, & Construction).
+
+---
+
+### 1. Assembly Project (Mechanical / Product Design)
+
+An assembly project focuses on **multi-part mechanical systems, mechanisms, and manufacturing tolerances**.
+
+* **Primary Workbenches:** `Assembly` (built-in solver) or add-ons like `A2plus`, `Assembly3`, or `Assembly4`.
+* **How it works:** You design individual parts independently (typically using `PartDesign` and `Sketcher` by drawing 2D profiles and extruding, revolving, or pocketing solid geometry). You then bring those separate part files or bodies into an assembly file and tie them together using geometric constraints (e.g., *Coincident, Concentric, Distance, Parallel*).
+* **Key Focus:**
+* **Kinematics:** Simulating physical movement, rotation, and mechanical joints (hinges, sliders, gears).
+* **Interference & Clearance:** Checking if mechanical components collide or fit tightly together.
+* **Bill of Materials (BOM):** Generating manufacturing parts lists, fastener counts, and step-by-step engineering drawings via `TechDraw`.
+
+
+
+---
+
+### 2. BIM / Architecture Project (AEC)
+
+A BIM (Building Information Modeling) project focuses on **buildings, infrastructure, spatial relationships, and asset lifecycles**.
+
+* **Primary Workbench:** `BIM` (which incorporates underlying architectural tools formerly split into the `Arch` and `Draft` workbenches).
+* **How it works:** Instead of assembling loose mechanical parts, you model elements with semantic and spatial intelligence—such as `Walls`, `Slabs`, `Columns`, `Beams`, `Windows`, and `Doors`. Components are context-aware; for example, inserting a window into a wall automatically cuts an opening and binds the objects spatially.
+* **Key Focus:**
+* **Hierarchical Spatial Containers:** Structures are organized logically from top to down: `Site` $\$rightarrow `Building` $\$rightarrow `Floor / Building Storey` $\$rightarrow `Spaces/Rooms`.
+* **Data & Standards (IFC):** Heavily reliant on Industry Foundation Classes (`.ifc`), ensuring that every object carries metadata regarding material properties, fire ratings, structural behavior, and costs.
+* **Documentation & Quantities:** Extracting floor plans, automatic section cuts, elevations, and quantitative material take-offs/schedules.
+
+
+
+---
+
+### Quick Comparison Summary
+
+| Feature | Assembly Project | BIM / Architecture Project |
+| --- | --- | --- |
+| **Target Domain** | Mechanical Engineering & Product Design | Architecture & Construction (AEC) |
+| **Main Workbenches** | `Assembly`, `PartDesign`, `Sketcher` | `BIM`, `Draft` |
+| **Core Components** | Gears, brackets, fasteners, machined parts | Walls, roofs, windows, stairs, structural grids |
+| **Relationship Logic** | Geometric constraint solvers (axes, faces, distance bounds) | Spatial containment hierarchies and parametric object intelligence |
+| **Primary Output / Export** | STEP, IGES, exploded mechanical drawings, BOMs | IFC (Industry Foundation Classes), floor plans, schedules |
+
 ---
 
 # What is the difference between the "Part Design" and "Part" menu items in FreeCAD 1.1 ?
 
-The primary difference between the **Part** and **Part Design** workbenches in FreeCAD 1.1 lies in their **modeling philosophy**, **data structure**, and **intended workflow**.
+The primary difference between the **Part** and **Part Design** workbenches in FreeCAD 1.1 
+lies in their **modeling philosophy**, **data structure**, and **intended workflow**.
 
 ---
 
