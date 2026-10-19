@@ -75,6 +75,19 @@ außer einigen Bugs, die bereinigt worden sind. Außerdem bietet diese Version a
 
 # Wortschatz
 
+> eine Formatspezifikation
+
+[Spezigikation](https://www.collinsdictionary.com/dictionary/german-english/spezifikation) = Aufgliederung  
+
+> aufgliedern [split up / divide]
+> = etwas **in** Kategorien teilen / aufgliedern
+
+[aufgliedern](https://www.collinsdictionary.com/dictionary/german-english/aufgliedern)
+
+[Aufgliederung](https://www.collinsdictionary.com/dictionary/german-english/aufgliederung)  
+
+[fachmännisch](https://www.collinsdictionary.com/dictionary/german-english/fachmannisch)
+
 > koaxial
 [koaxial](https://www.collinsdictionary.com/dictionary/german-english/koaxial)
 
