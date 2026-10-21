@@ -170,8 +170,7 @@ Das bedeutet, dass ich platzieren twei Komponenten gegeneinnader mit einem gewis
 oder auch mit keinen Abstand.
 
 > die Baugruppe, die Verbindungen
-"Assembly" ist das englische Begriff für Baugruppe und man meint mit "Joins" die Verbindungen oder 
-Abhängigkeiten zwischen die verschidenen Bauteilen einer Baugruppe.
+"Assembly" ist das englische Begriff für Baugruppe und man meint mit "Joins" die Verbindungen oder Abhängigkeiten zwischen die verschidenen Bauteilen einer Baugruppe.
 
 > custommäßig = maßgeschneidert
 Ein maßgeschneideiderter Bauteil.
