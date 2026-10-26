@@ -6,10 +6,22 @@
 
 [FreeCAD Setup für alle vom Bau - BIM | Arch | IFC | CAD - Baubetrieb Construction Management with Peter](https://www.youtube.com/watch?v=SnXTlOQ65yY&list=PLNv9lsSmVr-jna4EvjBjHGopn-v5D0nGZ&index=1)
 
-> 
+> gemäß Anforderungen [according to requirements]
+[gemäß](https://www.collinsdictionary.com/dictionary/german-english/gemass)
+Die Installation 
+
 
 > Bauleitung [Contruction Management]
-die Bauleitung von Baufirmen
+> Projektsteuerer [Project Controller]
+> SiGeKo [Sicherheits- und Gesundheitsschutzkoordinator]
+> Bauüberwachung
+
+FreeCAD BIM wird ein nützliches Werkzeug zu verschiedenen
+Fachleute, wie z. B. die Bauleitung von Baufirmen, Bauüberwachung, Projektsteuerer oder auch Fachleute, die sich mit SiGeKo-Kursen
+handeln.
+
+
+
 
 ---
 
