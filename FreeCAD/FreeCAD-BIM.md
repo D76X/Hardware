@@ -2,13 +2,26 @@
 
 [Grundmodell für ein Bauwerk erstellen - FreeCAD | BIM | ARCH - Baubetrieb Construction Management with Peter](https://www.youtube.com/watch?v=Qe-vXRtKql4&list=PLNv9lsSmVr-jna4EvjBjHGopn-v5D0nGZ&index=2)  
 
+[FreeCAD BIM Beginner Tutorial | Create a Garage Building FCB Lounge](https://www.youtube.com/watch?v=WZHyUBfdgJA)   
+
 ---
 
 [FreeCAD Setup für alle vom Bau - BIM | Arch | IFC | CAD - Baubetrieb Construction Management with Peter](https://www.youtube.com/watch?v=SnXTlOQ65yY&list=PLNv9lsSmVr-jna4EvjBjHGopn-v5D0nGZ&index=1)
 
 > gemäß Anforderungen [according to requirements]
+> das CAD-System
+> der Einstieg in etwas
+> Etwas in Teile unterteilen
+> das Entwurfsgitter
+> Arbeitsbereich
 [gemäß](https://www.collinsdictionary.com/dictionary/german-english/gemass)
-Die Installation 
+
+Diese ist eine Einleitung, die einen Einstieg in die Installation von dem CAD-System bietet.
+Sie enthält auch Informationen über das Einrichten gemäß bauspezifischen Anforderungen.
+Die Einleitung ist in drei Teile unterteilt.
+1. Installation
+2. BIM Arbeitsbereich, Einstellungen, Ansicht, Werkzeuge und Entwurfsgitter
+3. die Bibliotheck für Objektvorlagen
 
 
 > Bauleitung [Contruction Management]
