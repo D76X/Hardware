@@ -55,8 +55,6 @@ außer einigen Bugs, die bereinigt worden sind. Außerdem bietet diese Version a
 
 [FreeCAD Tutorial Deutsch 2 - Baugruppe Markus Mele-Schraven](https://www.youtube.com/watch?v=Hp7ybWSKvH8&list=PLqYHHYhYGYWeDPcmPz4GSwEvV1map_bkm&index=2)  
 
-[FreeCAD Tutorial German 1 - simple component Markus Mele-Schraven](https://www.youtube.com/watch?v=HjG6lmDNvB4&list=PLqYHHYhYGYWeDPcmPz4GSwEvV1map_bkm&index=1)  
-
 ---
 
 # Stolz3D
@@ -75,10 +73,52 @@ außer einigen Bugs, die bereinigt worden sind. Außerdem bietet diese Version a
 
 # Wortschatz
 
+> eingrenzen, die Eingrenzung
+> Blechkonstruktion
+> die Abstandsverbindung 
+> die Starreverbindung
+> Komponenten gegeneinander mit einer Verbindung platzieren
+> im welchem Fall
+> Drehstarr: eine drehstarre Verbindung machen / setzen / hinzufügen
+[starr](https://www.collinsdictionary.com/dictionary/german-english/starr) = unbeweglich, regungslos
+das [Gewinde](https://www.collinsdictionary.com/dictionary/german-english/gewinde)  
+> Gewindelöcher und Schrauben
+die [Schraube](https://www.collinsdictionary.com/dictionary/german-english/schraube)  
+der [Bolzen](https://www.collinsdictionary.com/dictionary/german-english/bolzen) 1) mit Gewinde 2) Geschoss?
+[hizufügen](https://www.collinsdictionary.com/dictionary/german-english/hinzufugen)  
+
+Manchmal wird man eine drehstarre Verbindung zwischen einer Welle und seiner Bohrung hinzufügen, 
+**um** die Teile miteinander unbeweglich **zu** machen.
+
+Eine Starreverbindung zwischen runden Körpen, wie z. B. Bolzen und Bohren mit Gewinden, wird die Teile miteinander unbeweglich.
+
+Es gibt zwei Hauptverbindungen, die man sehr oft verwendet; die Abstandsverbindung und die Starrverbindung.
+Man setzt eine Verstandsverbindung zwischen zwei Komponenten, wenn diese gegeneinander mit einem gewissen Abstand platziert werden mussten. 
+Der Abstand einer Abstandsverbindung kann auch null sein; **in welchem Fall** berühren sich die Teile und es gibt gar keinen Abstand zwischen ihnen. 
+
+> Das Einblenden und Ausblenden von Panels
+> die Maus = mit der Maus > mit der Tatatur
+> das Panel > die [Oberfläche](https://www.collinsdictionary.com/dictionary/german-english/oberflache)
+> erfolgen = 1) geschehen 2) folgen
+Man kann die Oberfläche oder das Panel mit der Maus ausblenden oder weider einblenden.
+Das Ausblenden von Werkzeugen in **die Hauptleiste** erfolgt über **die Symbolleiste**.
+Man geht über die Symbolleiste, die man ausblenden möchte, und verwendet dort die rechte Maustaste.
+
+> rotationssymmetrich
+> die Rotation
+Die CAD-Software bietet verschiedene Werkzeuge, z. B. das zur Herstellung von rotationssymmetrichen Körper.
+
+> Teile einer Baugrupper abhängig zueinander machen
+> eine Verbindung oder Abhängigkeit setzen
+> üblicherweise = normalerweise = ublich = normal = gewohnlich = kerkömmlicherweise
+Man kann zwei Teile einer Baugruppe miteinander verbinden.
+Solche Verbindung zwischen Teilen einer Baugruppe ist auch als Abhängigkeit in aderen CAD-Software genannt.
+Die Teile einer Baugruppe werden üblicherweise mit gegenseitigen Verbindungen oder Abhängigkeit gesetzt.
+
 > eine Formatspezifikation
+[Spezifikation](https://www.collinsdictionary.com/dictionary/german-english/spezifikation) = Aufgliederung  
 
-[Spezigikation](https://www.collinsdictionary.com/dictionary/german-english/spezifikation) = Aufgliederung  
-
+[FreeCAD Tutorial German 1 - simple component Markus Mele-Schraven](https://www.youtube.com/watch?v=HjG6lmDNvB4&list=PLqYHHYhYGYWeDPcmPz4GSwEvV1map_bkm&index=1)  
 > aufgliedern [split up / divide]
 > = etwas **in** Kategorien teilen / aufgliedern
 

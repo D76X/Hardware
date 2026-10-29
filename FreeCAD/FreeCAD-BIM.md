@@ -8,6 +8,10 @@
 
 [FreeCAD Setup für alle vom Bau - BIM | Arch | IFC | CAD - Baubetrieb Construction Management with Peter](https://www.youtube.com/watch?v=SnXTlOQ65yY&list=PLNv9lsSmVr-jna4EvjBjHGopn-v5D0nGZ&index=1)
 
+> die Beschriftung (= die Aufschrift) eines Etikett
+> die Seriennummer
+> Ein Etikett mit der Seriennummer beschriften / aufschreiben
+
 > gemäß Anforderungen [according to requirements]
 > das CAD-System
 > der Einstieg in etwas
