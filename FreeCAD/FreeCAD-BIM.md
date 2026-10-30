@@ -8,6 +8,18 @@
 
 [FreeCAD Setup für alle vom Bau - BIM | Arch | IFC | CAD - Baubetrieb Construction Management with Peter](https://www.youtube.com/watch?v=SnXTlOQ65yY&list=PLNv9lsSmVr-jna4EvjBjHGopn-v5D0nGZ&index=1)
 
+> der Grund > kein Grund zu Panik sein
+Wenn man die Symbolleiste nicht sieht, ist es kein Grund zu Panik.
+In diesem Fall wird man die aktuelle Instanz von FreeCAD halt schließen und dann sie wieder neu eröffnen.
+> nach arbeitswünschen
+> die Anordnung
+Man kann die Anordnung der Symbolleisten nach seinen eigenen 
+
+[schmeißern](https://www.collinsdictionary.com/dictionary/german-english/schmeissen) [=werfen] [sling, fling, topple]
+
+> eine Arbeitsbereiche aktivieren / deaktivieren
+> eine aktivieret / deaktiviert Arbeitsbereiche
+
 > die Beschriftung (= die Aufschrift) eines Etikett
 > die Seriennummer
 > Ein Etikett mit der Seriennummer beschriften / aufschreiben
