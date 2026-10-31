@@ -73,6 +73,19 @@ außer einigen Bugs, die bereinigt worden sind. Außerdem bietet diese Version a
 
 # Wortschatz
 
+> ein paar Hinweise geben
+> der Rastabstand 
+> den Rastabstand in die Einstellungen anlegen / anpassen
+Das Entwurfgitter wird sichtbar, wenn man das entsprechende Werkzeug zweimal klickt.
+Das Entwurfgitter zeigt den Rastabstand, der in die Einstellungen angelegt wird.
+
+> rausschieben
+> fluchten [allign/be alligned] [TRANS/INTRANS]
+> In dem Fall, dass..
+[fluchten](https://www.collinsdictionary.com/dictionary/german-english/fluchten_1)
+Diese beide Fläche fluchten miteinnader. [INTR]
+In dem Fall, dass diese beiden Flächen nicht miteinander fluchten, wird man eine rausschieben. 
+
 > eingrenzen, die Eingrenzung
 > Blechkonstruktion
 > die Abstandsverbindung 
@@ -86,6 +99,9 @@ das [Gewinde](https://www.collinsdictionary.com/dictionary/german-english/gewind
 die [Schraube](https://www.collinsdictionary.com/dictionary/german-english/schraube)  
 der [Bolzen](https://www.collinsdictionary.com/dictionary/german-english/bolzen) 1) mit Gewinde 2) Geschoss?
 [hizufügen](https://www.collinsdictionary.com/dictionary/german-english/hinzufugen)  
+
+Wenn man eine Verbindung zwischen diesen Teilen setzt, dann wird die Bewegung zwischen ihnen eingeschränkt.
+Die Bewegung ist möglich nur entlang einer Richtung, alle anderen sind gesperrt.
 
 Manchmal wird man eine drehstarre Verbindung zwischen einer Welle und seiner Bohrung hinzufügen, 
 **um** die Teile miteinander unbeweglich **zu** machen.

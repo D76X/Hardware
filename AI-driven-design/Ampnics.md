@@ -4,11 +4,17 @@
 
 - Parts:
 
-[ESP32-S3-WROOM-N8 (Microcontroller Module)](https://www.hqonline.com/product-detail/rf-transceiver-module-espressif-esp32-s3-wroom-1-n8-2500411082)   
+[ESP32-S3-WROOM-1-N8 (Microcontroller Module)](https://www.hqonline.com/product-detail/rf-transceiver-module-espressif-esp32-s3-wroom-1-n8-2500411082)   
 
 [ESP32-S3-WROOM-1U-N8R8](https://www.hqonline.com/product-detail/wifi-and-bluetooth-modules-espressif-esp32-s3-wroom-1u-n8r8-2500402375)  
 
+> HLK-5M05, HLK-10M05
+> HLK-PM01, HLK-PM03
+
 [HLK-5M05 AC DC 220 V TO 5V 5W 5 Isolated Switching Step-Down Module Converter](https://www.amazon.it/HI-Link-HLK-5M05-Switching-Step-Down-Converter/dp/B077ZRWR5C/ref=asc_df_B077ZRWR5C?mcid=f4eae3e3a9383baa9a9cef2d9b10cb44&tag=googshopit-21&linkCode=df0&hvadid=711155295770&hvpos=&hvnetw=g&hvrand=12215674342559514681&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1008463&hvtargid=pla-2365041559107&psc=1&hvocijid=12215674342559514681-B077ZRWR5C-&hvexpln=0)    
+
+[HLK-PM03 220V a 3.3V 3W AC-DC Isolato Step Down Modulo di alimentazione](https://www.amazon.it/RAKSTORE-HLK-PM03-isolato-Modulo-alimentazione/dp/B0C596GQ3D/ref=sr_1_5?dib=eyJ2IjoiMSJ9.Dk15wsKfg0b1tkzGdhdDTtFAoTT-xP4oDu7aJ5cNW5ftzKY4OE6GvUzSYM0mSprr355ePslbfinUZRXUuFYBdQsIQGQUYwfZpRcb63s-ZDtsjDsGrhnY_DAXmt3p_ukOlSSBUp7scnuC7Jmd1zEkjrChpeHhr7aOTPc4vV_i43FDZCf52OIlUChUuCDQg6Hz-CrezP0NpVdOtwNGVtlp77y4tx2ILlZECIQELJCRk4V3Cn0tr6mzQtXOJnIpbT3OtqzpSIizNUQsoCjN7fMTXZCKP_e5Ah2x15wMTelMeEs.kwoGwVObVSuuGQ_8yHSAsk5gqio3JYQgl3MnE-2bI9I&dib_tag=se&keywords=HLK-PM03&qid=1793453730&sr=8-5)
+
 
 [RTC Module](https://www.hqonline.com/search/DS3231)  
 
