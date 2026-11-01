@@ -1,8 +1,16 @@
-# Series Overview
+[Hardware Design With AI Co-Pilot | EP-2 : Features & Design Plan | Ampnics](https://www.youtube.com/watch?v=ZCfjKgXZC-I)   
 
-## Hardware Design With AI Co-Pilot
+## EP-1 : Introduction & Setup
 
-- Parts:
+[Hardware Design With AI Co-Pilot | EP-1 : Intro & Setup | Ampnics](https://www.youtube.com/watch?v=z6l4urOoXyE)  
+
+---
+
+# Part-02: Power Budgeting
+
+---
+
+# Part-01: Component Selection, Features, Working & Design Planning
 
 [ESP32-S3-WROOM-1-N8 (Microcontroller Module)](https://www.hqonline.com/product-detail/rf-transceiver-module-espressif-esp32-s3-wroom-1-n8-2500411082)   
 
@@ -16,28 +24,17 @@
 [HLK-PM03 220V a 3.3V 3W AC-DC Isolato Step Down Modulo di alimentazione](https://www.amazon.it/RAKSTORE-HLK-PM03-isolato-Modulo-alimentazione/dp/B0C596GQ3D/ref=sr_1_5?dib=eyJ2IjoiMSJ9.Dk15wsKfg0b1tkzGdhdDTtFAoTT-xP4oDu7aJ5cNW5ftzKY4OE6GvUzSYM0mSprr355ePslbfinUZRXUuFYBdQsIQGQUYwfZpRcb63s-ZDtsjDsGrhnY_DAXmt3p_ukOlSSBUp7scnuC7Jmd1zEkjrChpeHhr7aOTPc4vV_i43FDZCf52OIlUChUuCDQg6Hz-CrezP0NpVdOtwNGVtlp77y4tx2ILlZECIQELJCRk4V3Cn0tr6mzQtXOJnIpbT3OtqzpSIizNUQsoCjN7fMTXZCKP_e5Ah2x15wMTelMeEs.kwoGwVObVSuuGQ_8yHSAsk5gqio3JYQgl3MnE-2bI9I&dib_tag=se&keywords=HLK-PM03&qid=1793453730&sr=8-5)
 
 
-[RTC Module](https://www.hqonline.com/search/DS3231)  
+[DS3231 RTC Module](https://www.hqonline.com/search/DS3231)  
+DS3231M
+DS1307
+MCP7940N
+PCF8523
+RX8900SA
+MAX31334
 
 ---
 
-EP-3
-Project setup & Power+MCU circuit design
-EP-4
-INPUT/OUTPUT circuit
-EP-5
-Schematic review & Footprint assignment
-
----
-
-
-
----
-
-## EP-2 : Features, Working & Design Planning
-
-[Hardware Design With AI Co-Pilot | EP-2 : Features & Design Plan | Ampnics](https://www.youtube.com/watch?v=ZCfjKgXZC-I)   
-
-Features
+## Features
 
 - LED & Sound Feedback
 - Push Buttons for manual operation
@@ -96,40 +93,3 @@ This is normally a microcontroller or an FPGA.
 
 
 ---
-
-## EP-1 : Introduction & Setup
-
-[Hardware Design With AI Co-Pilot | EP-1 : Intro & Setup | Ampnics](https://www.youtube.com/watch?v=z6l4urOoXyE)  
-
----
-
-# EP-6: Mechanical design & component placement
-
-[Hardware Design With AI Co-Pilot | EP-6 : Board outline & Component placement | Ampnics](https://www.youtube.com/watch?v=qOU23NVi12E)  
-
----
-
-# EP-7: Track Designing & Silkscreen labelling
-
-[Hardware Design With AI Co-Pilot | EP-7 : USB, I2C & GPIO tracks designing | Ampnics](https://www.youtube.com/watch?v=7tiu6dTseCc&t=1s)   
-
-
----
-
-# EP-8 Dseign checks & Manufacturing Preparation
-
-[Hardware Design With AI Co-Pilot | EP-8 : ERC, DRC, BOM and Gerber File | Ampnics](https://www.youtube.com/watch?v=R1q_x9aNpcQ)  
-
----
-
-# EP-9 Last minute checkup, PCB ordering & Hardware Testing
-
-[Hardware Design With AI Co-Pilot | EP-9 : PCB Ordering & Hardware Testing | Ampnics](https://www.youtube.com/watch?v=_K-F-xFSYas)  
-
----
-
-EP-10
-Firmware development, Final Demonstration & Project Sharing
-
----
-
