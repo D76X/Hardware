@@ -1,0 +1,285 @@
+# Markus Mele-Schraven
+
+[FreeCAD Grundlagen Tutorials Deutsch by Markus Mele-Schraven](https://www.youtube.com/playlist?list=PLqYHHYhYGYWeDPcmPz4GSwEvV1map_bkm)  
+
+[FreeCAD Tutorial English 13 - Variables Markus Mele-Schraven](https://www.youtube.com/watch?v=RWnXzyzO2eQ)  
+
+# 03 Tech Draw
+# 02 Baugruppe
+
+---
+
+# 03 Tech Draw
+
+[FreeCAD Tutorial Deutsch 3 - Tech Draw Markus Mele-Schraven](https://www.youtube.com/watch?v=xkH4JNpHTsE&list=PLqYHHYhYGYWeDPcmPz4GSwEvV1map_bkm&index=3)  
+
+
+
+
+> hinzufügen
+> vertikal
+- Die vertikalen und horizontalen Maße hinzufügen
+- Das vertikale Maß hinzufügen
+
+---
+
+# 02 Baugruppe
+
+[FreeCAD Tutorial Deutsch 2 - Baugruppe Markus Mele-Schraven](https://www.youtube.com/watch?v=Hp7ybWSKvH8&list=PLqYHHYhYGYWeDPcmPz4GSwEvV1map_bkm&index=2)  
+
+---
+
+# Wortschatz
+
+> ein paar Hinweise geben
+> der Rastabstand 
+> den Rastabstand in die Einstellungen anlegen / anpassen
+Das Entwurfgitter wird sichtbar, wenn man das entsprechende Werkzeug zweimal klickt.
+Das Entwurfgitter zeigt den Rastabstand, der in die Einstellungen angelegt wird.
+
+> rausschieben
+> fluchten [allign/be alligned] [TRANS/INTRANS]
+> In dem Fall, dass..
+[fluchten](https://www.collinsdictionary.com/dictionary/german-english/fluchten_1)
+Diese beide Fläche fluchten miteinnader. [INTR]
+In dem Fall, dass diese beiden Flächen nicht miteinander fluchten, wird man eine rausschieben. 
+
+> eingrenzen, die Eingrenzung
+> Blechkonstruktion
+> die Abstandsverbindung 
+> die Starreverbindung
+> Komponenten gegeneinander mit einer Verbindung platzieren
+> im welchem Fall
+> Drehstarr: eine drehstarre Verbindung machen / setzen / hinzufügen
+[starr](https://www.collinsdictionary.com/dictionary/german-english/starr) = unbeweglich, regungslos
+das [Gewinde](https://www.collinsdictionary.com/dictionary/german-english/gewinde)  
+> Gewindelöcher und Schrauben
+die [Schraube](https://www.collinsdictionary.com/dictionary/german-english/schraube)  
+der [Bolzen](https://www.collinsdictionary.com/dictionary/german-english/bolzen) 1) mit Gewinde 2) Geschoss?
+[hizufügen](https://www.collinsdictionary.com/dictionary/german-english/hinzufugen)  
+
+Wenn man eine Verbindung zwischen diesen Teilen setzt, dann wird die Bewegung zwischen ihnen eingeschränkt.
+Die Bewegung ist möglich nur entlang einer Richtung, alle anderen sind gesperrt.
+
+Manchmal wird man eine drehstarre Verbindung zwischen einer Welle und seiner Bohrung hinzufügen, 
+**um** die Teile miteinander unbeweglich **zu** machen.
+
+Eine Starreverbindung zwischen runden Körpen, wie z. B. Bolzen und Bohren mit Gewinden, wird die Teile miteinander unbeweglich.
+
+Es gibt zwei Hauptverbindungen, die man sehr oft verwendet; die Abstandsverbindung und die Starrverbindung.
+Man setzt eine Verstandsverbindung zwischen zwei Komponenten, wenn diese gegeneinander mit einem gewissen Abstand platziert werden mussten. 
+Der Abstand einer Abstandsverbindung kann auch null sein; **in welchem Fall** berühren sich die Teile und es gibt gar keinen Abstand zwischen ihnen. 
+
+> Das Einblenden und Ausblenden von Panels
+> die Maus = mit der Maus > mit der Tatatur
+> das Panel > die [Oberfläche](https://www.collinsdictionary.com/dictionary/german-english/oberflache)
+> erfolgen = 1) geschehen 2) folgen
+Man kann die Oberfläche oder das Panel mit der Maus ausblenden oder weider einblenden.
+Das Ausblenden von Werkzeugen in **die Hauptleiste** erfolgt über **die Symbolleiste**.
+Man geht über die Symbolleiste, die man ausblenden möchte, und verwendet dort die rechte Maustaste.
+
+> rotationssymmetrich
+> die Rotation
+Die CAD-Software bietet verschiedene Werkzeuge, z. B. das zur Herstellung von rotationssymmetrichen Körper.
+
+> Teile einer Baugrupper abhängig zueinander machen
+> eine Verbindung oder Abhängigkeit setzen
+> üblicherweise = normalerweise = ublich = normal = gewohnlich = kerkömmlicherweise
+Man kann zwei Teile einer Baugruppe miteinander verbinden.
+Solche Verbindung zwischen Teilen einer Baugruppe ist auch als Abhängigkeit in aderen CAD-Software genannt.
+Die Teile einer Baugruppe werden üblicherweise mit gegenseitigen Verbindungen oder Abhängigkeit gesetzt.
+
+> eine Formatspezifikation
+[Spezifikation](https://www.collinsdictionary.com/dictionary/german-english/spezifikation) = Aufgliederung  
+
+[FreeCAD Tutorial German 1 - simple component Markus Mele-Schraven](https://www.youtube.com/watch?v=HjG6lmDNvB4&list=PLqYHHYhYGYWeDPcmPz4GSwEvV1map_bkm&index=1)  
+> aufgliedern [split up / divide]
+> = etwas **in** Kategorien teilen / aufgliedern
+
+[aufgliedern](https://www.collinsdictionary.com/dictionary/german-english/aufgliedern)
+
+[Aufgliederung](https://www.collinsdictionary.com/dictionary/german-english/aufgliederung)  
+
+[fachmännisch](https://www.collinsdictionary.com/dictionary/german-english/fachmannisch)
+
+> koaxial
+[koaxial](https://www.collinsdictionary.com/dictionary/german-english/koaxial)
+
+Die Teile mit der Bohrung soll koaxial sein.
+
+> Flüssigstickstoff, Bohrungspassung, die Toleranz, die Bohrung und die Welle
+> die Spielpassung, der Parameter, Standardkopplungstoleranzen, der Standard
+> die Toleranz oder die Speilpassung angeben
+> die Passung = dir Paarung
+> die Außenkonturen dementsprechend bemaßen
+> ISO 2768
+> Kehlnat [throat suture welding] -> Schweißsymbol -> der Schweißsymbol hat einen Kringel
+der [Kringel](https://www.collinsdictionary.com/dictionary/german-english/kringel) 
+[angeben](https://www.collinsdictionary.com/dictionary/german-english/angeben)
+[kuppeln](https://www.collinsdictionary.com/dictionary/german-english/kuppeln) [TECH. Mek.]
+[koppeln](https://www.collinsdictionary.com/dictionary/german-english/koppeln) [TECH. elektr.]
+
+Mit der Passung H7 wird man +0.025 mm für die Bohrung nutzen, so dass eine h6-Welle gut und einfach geht.
+Das heißt, eine 40 mm nominale H7-Bohrung hat 40.025 mm oberes Abmaß und 40.000 mm als unteres Amaß.
+
+Standardmäßig wird die Passung mit dem Groß H7 für die Bohrung und h6 für die Welle als völlig OK betrachtet.
+Diese Paarung wird manuell nicht zu schwierig zu machen.
+
+Die Spielpassung zwischen einer Bohrung und der entsprechenden Welle ist ein wichtiger Parameter, 
+den man bestimmen werden muss.
+
+Standardmäßig wird man die Toleranz als H7/h5, H6/h4 oder entsprechende Standardkopplungstoleranzen nutzen.
+Der ISO-Standard, der die Spielpassung der Kopplung zwischen einer Bohrung und einer Welle angibt, 
+kommt immer in der Form von Hx/hy, [wobei] der Bohrung Hx und [bei] der Welle hy wird.
+
+Man redet bei Bohrungen immer von Toleranzen.
+Man muss einen Toleranzbereich für jede Bohrung eingeben, der bestimmt, was für eine Kopplung die Bohrung wird.
+Jede Bohrung, die mit einer Welle gekuppelt wird, muss innerhalb einer entsprechenden Toleranz kommen.
+
+Wenn die Toleranz zwischen der Welle und der entsprechenden Bohrung sehr knapp ist, 
+wird man spezielle Kopplungsmethoden, wie z. B. Flüssigstickstoff, einsetzen.
+
+> der Drehbank, das Schweißsymbol, der Schweißfachmann
+> quadratisch, fachmännisch
+[anschweissen](https://www.collinsdictionary.com/dictionary/german-english/anschweissen)
+
+Ein rundes Stück Rohmaterial, das an der Drehbank verarbeitet werden kann.
+In der Herstellung des Bauteils werden die quadratischen Bleche abgesägt und 
+zugeschnitten und schließlich zusammen angeschweißt.
+
+Schweißsymbole sollen für den Schweißfachmann ganz übersichtlich sein.
+
+> konzentrisch
+Die Mittlepunkte sind konzentrisch im Zentrum der Bohrung.
+> spiegelsimetrich, Mittellinie, einkürzen, verlängern, die Korperkante, hinausragen
+Die Teil sehen gleich rechts und links, deßhalb spricht man über spiegelsimetriche Teile über eine Ebene oder eine Achse.
+Man fügt die Zeichnung mit einer Mittellinie ein.
+Man soll auch die Mittellinie einkürzen oder verlängern, so dass sie ein bischien über die Ansciht der Korperkante hinausragen.
+
+> skalieren
+Die Zeichnung oder die Ansicht richtig und vernünftig skalieren.
+Eins zu eins skaliert sein.
+Man wird die Zeiuchnung bemaßen.
+Man wird die die Bemaßungen der Zeiuchnung setzen / einfügen.
+
+> Tastenkombinazionen, Tastenkürzel
+
+> das Knotenblech (Knotenplatte) [Gusset plate]
+
+## Was ist ein Knotenblech?
+
+Ein Knotenblech (auch Knotenplatte genannt) ist ein verbindendes Bauteil im Konstruktions- 
+und Ingenieurbau, insbesondere im Stahl-, Holz- und Leichtbau. Es dient dazu, mehrere 
+aufeinandertreffende Stäbe oder Träger an einem gemeinsamen Verbindungspunkt (dem Knotenpunkt) 
+stabil und tragfähig miteinander zu fügen.
+
+> Drehstarre, Drehstarreverbindung, drehstarre Kupplung
+
+Eine drehstarre Kupplung (auch torsionssteife oder verdrehsteife Kupplung genannt) ist 
+ein Maschinenelement in der Antriebstechnik, das ein Drehmoment nahezu ohne Verdrehwinkel 
+von einer Welle auf eine andere überträgt.
+
+> die Abstandsverbindung
+Das bedeutet, dass ich platzieren twei Komponenten gegeneinnader mit einem gewissen Abstand,
+oder auch mit keinen Abstand.
+
+> die Baugruppe, die Verbindungen
+"Assembly" ist das englische Begriff für Baugruppe und man meint mit "Joins" die Verbindungen oder Abhängigkeiten zwischen die verschidenen Bauteilen einer Baugruppe.
+
+> custommäßig = maßgeschneidert
+Ein maßgeschneideiderter Bauteil.
+Der Bauteil ist custommäßig.
+
+[überlagern](https://www.collinsdictionary.com/dictionary/german-english/uberlagern)
+Die Zeichnungen überlagern sich teilweise.
+
+[Überlagerung](https://www.collinsdictionary.com/dictionary/german-english/uberlagerung)
+Man soll die Überlagerung der Zeichnungen vermeiden.
+
+> die isometrische Ansicht 
+
+[justieren](https://www.collinsdictionary.com/dictionary/german-english/justieren)  
+Doe Zeichnung nachjustieren.
+
+> hatch, hatching
+[schraffieren](https://www.collinsdictionary.com/dictionary/german-english/schraffieren)
+[Schraffierung](https://www.collinsdictionary.com/dictionary/german-english/schraffierung)  
+
+> shade, shading
+[schattieren](https://www.collinsdictionary.com/dictionary/german-english/schattieren) 
+[Schattierung](https://www.collinsdictionary.com/dictionary/german-english/schattierung)
+
+> sich aufeinander ausgerichten sein [to align to each other]
+
+---
+
+> selektieren
+eine Geometrie selektieren
+
+> aktivieren
+> die Schnittansicht aktivieren
+> etwas im Schnitt zeigen
+
+---
+
+die [Lasche](https://www.collinsdictionary.com/dictionary/german-english/lasche)
+> splicing plate
+
+die [Welle](https://www.collinsdictionary.com/dictionary/german-english/welle)
+> shaft
+
+> Eine Lasche auf der Welle herstellen
+
+Die Schuhlasche
+
+---
+
+> to pad, extrude, upholster
+[polstern](https://www.collinsdictionary.com/dictionary/german-english/polstern)
+
+das [Möbel](https://www.collinsdictionary.com/dictionary/german-english/mobel) 
+-> PL die Möbel
+
+> Eine Geometrie von einer Skizze polstern
+Die Kleidung oder die Tür polstern
+Gut **polsternde** Möbel herstellen
+Ein Kleidungsstück gut polstern
+
+sie ist finanziell gut or komfortabel gepolstert
+
+---
+
+[abhacken](https://www.collinsdictionary.com/dictionary/german-english/abhacken)
+=
+[abhauen](https://www.collinsdictionary.com/dictionary/german-english/abhauen)
+(= ausschneiden)
+eine Rübe mit der Hand abhacken
+!=
+[abhaken](https://www.collinsdictionary.com/dictionary/german-english/abhaken)
+(= markieren) | (= abnehmen) 
+[ankreuzen](https://www.collinsdictionary.com/dictionary/german-english/ankreuzen)
+
+[orientieren](https://www.collinsdictionary.com/dictionary/german-english/orientieren)
+> die Orientiurung
+
+die [Achse](https://www.collinsdictionary.com/dictionary/german-english/achse)  
+> die Achsen
+
+Man kann immer diese Einstellung **abhaken**, wenn sie nicht angewendet werden muss.
+
+Viele von diesen **Anzeigeeinstellungen** können abgehakt werden.
+
+Die Einstellung für das **Koordinatensystem** anzeigen, kann man ankreuzen.
+
+Es wird sehr praktisch, die Achsen des Koordinatensystems anzeigen (zu) lassen, 
+weil es bei der **Orientierung** hilft.
+
+---
+
+> die Kantenglättung
+[glätten](https://www.collinsdictionary.com/dictionary/german-english/glatten)  
+(= Haar oder Tuch glatt machen oder streichen) 
+
+In FreeCAD, die Kantenglättung auf 1 mm setzen.
+
+---

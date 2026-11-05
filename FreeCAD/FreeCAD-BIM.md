@@ -6,6 +6,37 @@
 
 ---
 
+# Video 02
+
+[Grundmodell für ein Bauwerk erstellen - FreeCAD | BIM | ARCH - Baubetrieb Construction Management with Peter](https://www.youtube.com/watch?v=Qe-vXRtKql4&t=66s)  
+
+> im Grunde
+Es gibt im Grunde drei Schritte.
+
+> heraussuchen [to pick out]
+> das Raster > das Strukturraster
+1. Analyse des Projektes
+
+- Wir müssen es heraussuchen, mit welchen Objekten wir zu tun haben. 
+- Wie möchte ich mein grundsätzliches Strukturraster machen?
+
+> das Modell
+2. Das Grundmodell erstellen
+
+- Die Achse des Rasters festlegen.
+- Die Ebene mit den Bauabschnitten festlegen.
+
+> der Rohbau
+> modellieren
+3. Das Fachmodell herstellen
+
+- Den Rohbau bzw. das Fachmodell modellieren
+- 
+
+---
+
+# Video 01
+
 [FreeCAD Setup für alle vom Bau - BIM | Arch | IFC | CAD - Baubetrieb Construction Management with Peter](https://www.youtube.com/watch?v=SnXTlOQ65yY&list=PLNv9lsSmVr-jna4EvjBjHGopn-v5D0nGZ&index=1)
 
 > der Grund > kein Grund zu Panik sein
