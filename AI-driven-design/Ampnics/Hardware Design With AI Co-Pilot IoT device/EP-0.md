@@ -1,23 +1,6 @@
 # Hardware Design With AI Co-Pilot
 
 
-
----
-
-EP-3
-Project setup & Power+MCU circuit design
-EP-4
-INPUT/OUTPUT circuit
-EP-5
-Schematic review & Footprint assignment
-
----
-
-
-
----
-
-
 ---
 
 # EP-6: Mechanical design & component placement
