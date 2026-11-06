@@ -15,6 +15,9 @@
 
 
 
+> der Axel
+[aufschneiden](https://www.collinsdictionary.com/dictionary/german-english/aufschneiden)  
+Man kann der Ansicht des Bauteils mit einem Axel in der Mitte aufschneiden
 
 > hinzufügen
 > vertikal

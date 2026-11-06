@@ -10,6 +10,12 @@
 
 [Grundmodell für ein Bauwerk erstellen - FreeCAD | BIM | ARCH - Baubetrieb Construction Management with Peter](https://www.youtube.com/watch?v=Qe-vXRtKql4&t=66s)  
 
+> der Befehlsleiste
+> der Zeichnungsbereich
+> das Modell
+Es gibt verschiedene Befehlsleisten direkt oben im zentralen Zeichnungsbereich.
+Sie geben den Benutzern viele Möglichkeiten, das Modell entsprechend zu verändern.
+
 > im Grunde
 Es gibt im Grunde drei Schritte.
 
