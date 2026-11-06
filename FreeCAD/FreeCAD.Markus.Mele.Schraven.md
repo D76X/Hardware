@@ -14,10 +14,17 @@
 [FreeCAD Tutorial Deutsch 3 - Tech Draw Markus Mele-Schraven](https://www.youtube.com/watch?v=xkH4JNpHTsE&list=PLqYHHYhYGYWeDPcmPz4GSwEvV1map_bkm&index=3)  
 
 
-
-> der Axel
+> spiegelsymmetrich über eine Ebene oder oder einer Axel
+> die Spiegelansicht
+> die Achse > der Axel
+die [Achse](https://www.collinsdictionary.com/dictionary/german-english/achse) 
+> die Achsen
+der [Teil](https://www.collinsdictionary.com/dictionary/german-english/teil)  
 [aufschneiden](https://www.collinsdictionary.com/dictionary/german-english/aufschneiden)  
+
+Die Mittellinie einer Spiegelansicht für einen spiegelsymmetrischen Teil wird ihre Achse genannt.
 Man kann der Ansicht des Bauteils mit einem Axel in der Mitte aufschneiden
+Die beiden Seiten rund um den Axel sind genau zueinander gleich.
 
 > hinzufügen
 > vertikal

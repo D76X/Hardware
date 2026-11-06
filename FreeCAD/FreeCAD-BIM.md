@@ -10,6 +10,26 @@
 
 [Grundmodell für ein Bauwerk erstellen - FreeCAD | BIM | ARCH - Baubetrieb Construction Management with Peter](https://www.youtube.com/watch?v=Qe-vXRtKql4&t=66s)  
 
+
+> der Reiter [index tab]
+Das Fenster enthält den Reiter.
+
+> im Spiegel hinstellen / legen / setzen
+[hinstellen](https://www.collinsdictionary.com/dictionary/german-english/hinstellen) [legen,setzen]
+Die beiden Seiten eines symmetrischen Teils im Spiegel hinstellen.
+
+[anzeigen](https://www.collinsdictionary.com/dictionary/german-english/anzeigen)
+> das Eigenschaftenfenster
+> die Hintergrunddaten
+> über den Baum Objekten auswählen / anwählen
+Man kann über den Baum Objekte auswählen, um **deren** Eigenschaften im Eigenschaftenfenster zu zeigen.
+Die Eigenschaften des Objekts, das im Baum ausgewählt wird, werden im Eigenschaftenfenster angezeigt.
+
+Die Eigenschaften werden in zwei Felder verteilt, die das Hintergrundsdaten darstellen 
+und die die zu der Ansicht verweisen. 
+
+Man wird einige Daten des ausgewählten Objekts direkt über dieses Fenster anpassen.
+
 > der Befehlsleiste
 > der Zeichnungsbereich
 > das Modell
