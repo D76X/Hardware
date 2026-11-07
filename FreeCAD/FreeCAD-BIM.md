@@ -28,6 +28,63 @@ Construction Management with Peter has used this as its basis.
 
 # Video 01
 
+# Video 02
+
+[Grundmodell für ein Bauwerk erstellen - FreeCAD | BIM | ARCH - Baubetrieb Construction Management with Peter](https://www.youtube.com/watch?v=Qe-vXRtKql4&t=66s)  
+
+
+> der Reiter [index tab]
+Das Fenster enthält den Reiter.
+
+> im Spiegel hinstellen / legen / setzen
+[hinstellen](https://www.collinsdictionary.com/dictionary/german-english/hinstellen) [legen,setzen]
+Die beiden Seiten eines symmetrischen Teils im Spiegel hinstellen.
+
+[anzeigen](https://www.collinsdictionary.com/dictionary/german-english/anzeigen)
+> das Eigenschaftenfenster
+> die Hintergrunddaten
+> über den Baum Objekten auswählen / anwählen
+Man kann über den Baum Objekte auswählen, um **deren** Eigenschaften im Eigenschaftenfenster zu zeigen.
+Die Eigenschaften des Objekts, das im Baum ausgewählt wird, werden im Eigenschaftenfenster angezeigt.
+
+Die Eigenschaften werden in zwei Felder verteilt, die das Hintergrundsdaten darstellen 
+und die die zu der Ansicht verweisen. 
+
+Man wird einige Daten des ausgewählten Objekts direkt über dieses Fenster anpassen.
+
+> der Befehlsleiste
+> der Zeichnungsbereich
+> das Modell
+Es gibt verschiedene Befehlsleisten direkt oben im zentralen Zeichnungsbereich.
+Sie geben den Benutzern viele Möglichkeiten, das Modell entsprechend zu verändern.
+
+> im Grunde
+Es gibt im Grunde drei Schritte.
+
+> heraussuchen [to pick out]
+> das Raster > das Strukturraster
+1. Analyse des Projektes
+
+- Wir müssen es heraussuchen, mit welchen Objekten wir zu tun haben. 
+- Wie möchte ich mein grundsätzliches Strukturraster machen?
+
+> das Modell
+2. Das Grundmodell erstellen
+
+- Die Achse des Rasters festlegen.
+- Die Ebene mit den Bauabschnitten festlegen.
+
+> der Rohbau
+> modellieren
+3. Das Fachmodell herstellen
+
+- Den Rohbau bzw. das Fachmodell modellieren
+- 
+
+---
+
+# Video 01
+
 [FreeCAD Setup für alle vom Bau - BIM | Arch | IFC | CAD - Baubetrieb Construction Management with Peter](https://www.youtube.com/watch?v=SnXTlOQ65yY&list=PLNv9lsSmVr-jna4EvjBjHGopn-v5D0nGZ&index=1)
 
 > der Grund > kein Grund zu Panik sein

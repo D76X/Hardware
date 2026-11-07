@@ -45,15 +45,6 @@ außer einigen Bugs, die bereinigt worden sind. Außerdem bietet diese Version a
 
 ---
 
-# Markus Mele-Schraven
-
-[FreeCAD Grundlagen Tutorials Deutsch by Markus Mele-Schraven](https://www.youtube.com/playlist?list=PLqYHHYhYGYWeDPcmPz4GSwEvV1map_bkm)  
-
-[FreeCAD Tutorial English 13 - Variables Markus Mele-Schraven](https://www.youtube.com/watch?v=RWnXzyzO2eQ)  
-
-[FreeCAD Tutorial Deutsch 3 - Tech Draw Markus Mele-Schraven](https://www.youtube.com/watch?v=xkH4JNpHTsE&list=PLqYHHYhYGYWeDPcmPz4GSwEvV1map_bkm&index=3)  
-
-[FreeCAD Tutorial Deutsch 2 - Baugruppe Markus Mele-Schraven](https://www.youtube.com/watch?v=Hp7ybWSKvH8&list=PLqYHHYhYGYWeDPcmPz4GSwEvV1map_bkm&index=2)  
 
 ---
 
@@ -187,8 +178,6 @@ Man fügt die Zeichnung mit einer Mittellinie ein.
 Man soll auch die Mittellinie einkürzen oder verlängern, so dass sie ein bischien über die Ansciht der Korperkante hinausragen.
 
 > skalieren
-> die Ansicht von hinten/vorn/oben/unten
-Eine Ansicht von vorne, eine von oben und eine von beiden seiten und letlich von unten.
 Die Zeichnung oder die Ansicht richtig und vernünftig skalieren.
 Eins zu eins skaliert sein.
 Man wird die Zeiuchnung bemaßen.
