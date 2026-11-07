@@ -2,15 +2,38 @@
 
 [Grundmodell für ein Bauwerk erstellen - FreeCAD | BIM | ARCH - Baubetrieb Construction Management with Peter](https://www.youtube.com/watch?v=Qe-vXRtKql4&list=PLNv9lsSmVr-jna4EvjBjHGopn-v5D0nGZ&index=2)  
 
+---
+
 [FreeCAD BIM Beginner Tutorial | Create a Garage Building FCB Lounge](https://www.youtube.com/watch?v=WZHyUBfdgJA)   
 
 ---
+
+# Yorik Van Havre
+
+Construction Management with Peter has used this as its basis.
+
+[Yorik Van Havre](https://www.linkedin.com/in/yorik/)
+
+[BIM with FreeCAD by Yorik van Havre](https://www.youtube.com/playlist?list=PLmKdGVtV5Vnt2cj4IZIv9FM39QHaE1ZaU)  
+
+---
+
+# Video 02
+
+[Grundmodell für ein Bauwerk erstellen - FreeCAD | BIM | ARCH - Baubetrieb Construction Management with Peter](https://www.youtube.com/watch?v=Qe-vXRtKql4&list=PLNv9lsSmVr-jna4EvjBjHGopn-v5D0nGZ&index=3)
+
+> eines digitale Gebäudemodell
+
+---
+
+# Video 01
 
 [FreeCAD Setup für alle vom Bau - BIM | Arch | IFC | CAD - Baubetrieb Construction Management with Peter](https://www.youtube.com/watch?v=SnXTlOQ65yY&list=PLNv9lsSmVr-jna4EvjBjHGopn-v5D0nGZ&index=1)
 
 > der Grund > kein Grund zu Panik sein
 Wenn man die Symbolleiste nicht sieht, ist es kein Grund zu Panik.
 In diesem Fall wird man die aktuelle Instanz von FreeCAD halt schließen und dann sie wieder neu eröffnen.
+
 > nach arbeitswünschen
 > die Anordnung
 Man kann die Anordnung der Symbolleisten nach seinen eigenen 

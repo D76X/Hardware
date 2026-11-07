@@ -73,6 +73,10 @@ außer einigen Bugs, die bereinigt worden sind. Außerdem bietet diese Version a
 
 # Wortschatz
 
+> etwas aus machen
+> die Auto-Verteilungsfunktion
+Ich mache hier die Auto-Verteilungsfunktion aus.
+
 > eingrenzen, die Eingrenzung
 > Blechkonstruktion
 > die Abstandsverbindung 
@@ -183,6 +187,8 @@ Man fügt die Zeichnung mit einer Mittellinie ein.
 Man soll auch die Mittellinie einkürzen oder verlängern, so dass sie ein bischien über die Ansciht der Korperkante hinausragen.
 
 > skalieren
+> die Ansicht von hinten/vorn/oben/unten
+Eine Ansicht von vorne, eine von oben und eine von beiden seiten und letlich von unten.
 Die Zeichnung oder die Ansicht richtig und vernünftig skalieren.
 Eins zu eins skaliert sein.
 Man wird die Zeiuchnung bemaßen.
