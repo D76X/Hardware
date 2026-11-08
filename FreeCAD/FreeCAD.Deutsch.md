@@ -64,6 +64,30 @@ außer einigen Bugs, die bereinigt worden sind. Außerdem bietet diese Version a
 
 # Wortschatz
 
+
+
+> die Bezugsebene, die Bezugskante
+> in der Regel
+> ebenfalls = ebenso = gleichfalls = auch = dabei
+> eines Beispiels
+> verfügbar = erhältlich = varhanden > vorhanden
+[anhand](https://www.collinsdictionary.com/dictionary/german-english/anhand) 
+die [Konstruktion](https://www.collinsdictionary.com/dictionary/german-english/konstruktion)
+[findig](https://www.collinsdictionary.com/dictionary/german-english/findig) [resourceful]
+
+Man wird in der Regel in der Konstruktion für alle Maßlinien immer eine Bezugsebene finden und nutzen,
+ebenfalls wird eine Bezugskante genutzt, wenn sie vorhanden ist.
+
+
+> der Vollständigkeit halber
+Ich zeige es, der Vollständigkeit halber, euch, wie man die Maßlinien über den Speigelsaxel zieht.
+
+> die Maßlinien ziehen
+Man kann alle Maßlinien über den zentralen Axel, wenn das Teil spiegelsymmetrisch ist.
+
+> einkürzen oder verlängern
+Den Axel mit der Maustaste ein bisschen einkürzen oder verlängern
+
 > etwas aus machen
 > die Auto-Verteilungsfunktion
 Ich mache hier die Auto-Verteilungsfunktion aus.
