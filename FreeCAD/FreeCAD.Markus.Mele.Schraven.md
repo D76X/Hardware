@@ -13,6 +13,19 @@
 
 [FreeCAD Tutorial Deutsch 3 - Tech Draw Markus Mele-Schraven](https://www.youtube.com/watch?v=xkH4JNpHTsE&list=PLqYHHYhYGYWeDPcmPz4GSwEvV1map_bkm&index=3)  
 
+[hinausragen](https://www.collinsdictionary.com/dictionary/german-english/hinausragen) 
+> über etwas / die Kante hisausragen
+> [to project, to jut out, to tower up/above/over]
+[Symmetrie](https://www.collinsdictionary.com/dictionary/german-english/symmetrie)
+> die Symmetrielinie
+
+Die Mittellinie soll immer ein bisschen über die Kante hinausragen.
+
+> die Pfeiltaste / Pfeiltasten
+> verlängern oder einkürzen
+Wenn die Symmetrielinie zu kurz oder zu lang ist, wird man sie 
+mit der Pfeiltasten entweder verlängern oder einkürzen, bis sie
+ein bisschen über die Kante des Objekts hinausrägt.
 
 > spiegelsymmetrich über eine Ebene oder oder einer Axel
 > die Spiegelansicht
