@@ -13,6 +13,13 @@
 
 [FreeCAD Tutorial Deutsch 3 - Tech Draw Markus Mele-Schraven](https://www.youtube.com/watch?v=xkH4JNpHTsE&list=PLqYHHYhYGYWeDPcmPz4GSwEvV1map_bkm&index=3)  
 
+
+> die Bezugslinie
+> die Bezugsebene
+> die Bezugskante
+
+Nehme den Abstand immer von einer Bezugslinie, Bezugsebene oder einer Bezugskante.
+
 [hinausragen](https://www.collinsdictionary.com/dictionary/german-english/hinausragen) 
 > über etwas / die Kante hisausragen
 > [to project, to jut out, to tower up/above/over]
