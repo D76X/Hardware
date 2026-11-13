@@ -8,21 +8,23 @@
 
 [Grundmodell für ein Bauwerk erstellen - FreeCAD | BIM | ARCH - Baubetrieb Construction Management with Peter](https://www.youtube.com/watch?v=Qe-vXRtKql4&list=PLNv9lsSmVr-jna4EvjBjHGopn-v5D0nGZ&index=3)
 
+
+> das Ratser > das Entwurfraster
+[engnaschig](https://www.collinsdictionary.com/dictionary/german-english/engmaschig)
+> ein engnaschiges Rasters nutzen / stellen
+> die Modellierung
+Es gibt eine entsprechende Werkzeugliste für die Modellierung des Entwurfrasters.
+
+[zuordnen](https://www.collinsdictionary.com/dictionary/german-english/zuordnen)
+> die Zurodnung
+> erfolgen
+
+Die Zuordnung der Zeichnung zu dem Objekt im Modell erfolgt über 
+die Funktionen, die in **der** Werkzeugenliste vorhanden sind.
+
 > eines digitale Gebäudemodell
 > untersciedliche Wege laufen
 Bei der Modellierung des digitalen Gebäudemodells kann man unterschiedliche Wege laufen.
-
----
-
-# Video 01
-
----
-
-# Video 02
-
-[Grundmodell für ein Bauwerk erstellen - FreeCAD | BIM | ARCH - Baubetrieb Construction Management with Peter](https://www.youtube.com/watch?v=Qe-vXRtKql4&t=66s)  
-
-
 
 > ein zweistufiges Verfahren
 > im ersten Schritt..im zweiten Schritt

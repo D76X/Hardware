@@ -14,6 +14,10 @@
 [FreeCAD Tutorial Deutsch 3 - Tech Draw Markus Mele-Schraven](https://www.youtube.com/watch?v=xkH4JNpHTsE&list=PLqYHHYhYGYWeDPcmPz4GSwEvV1map_bkm&index=3)  
 
 
+[oberhalb](collinsdictionary.com/dictionary/german-english/oberhalb) + GEN
+
+Ich fuge das horizontale Maß hinzu, so dass es oberhalb des Bauteils wird.
+
 > die Bezugslinie
 > die Bezugsebene
 > die Bezugskante
