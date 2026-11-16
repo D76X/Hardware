@@ -13,8 +13,13 @@
 
 [FreeCAD Tutorial Deutsch 3 - Tech Draw Markus Mele-Schraven](https://www.youtube.com/watch?v=xkH4JNpHTsE&list=PLqYHHYhYGYWeDPcmPz4GSwEvV1map_bkm&index=3)  
 
+> der Radius
+> ein Durchmessermaß
 > die Bemaßung = die Bemessung
 > die Frontansicht
+
+Der minimale Radius entspricht immer dem Dutschmesser der Bohrung, er muss mindestens 
+die selbe GroÕe haben wie die Bohrung
 
 [bündig](https://www.collinsdictionary.com/dictionary/german-english/b%C3%BCndig)
 > (= schlüssig) [conclusive] (= kurz, bestimmt) [concise, succinct]
