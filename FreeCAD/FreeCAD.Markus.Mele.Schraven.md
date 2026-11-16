@@ -13,6 +13,20 @@
 
 [FreeCAD Tutorial Deutsch 3 - Tech Draw Markus Mele-Schraven](https://www.youtube.com/watch?v=xkH4JNpHTsE&list=PLqYHHYhYGYWeDPcmPz4GSwEvV1map_bkm&index=3)  
 
+> die Bemaßung = die Bemessung
+> die Frontansicht
+
+[bündig](https://www.collinsdictionary.com/dictionary/german-english/b%C3%BCndig)
+> (= schlüssig) [conclusive] (= kurz, bestimmt) [concise, succinct]
+> (= in gleicher Ebene) flush pred, level **
+> inzufügen >> hinzuzufügen
+
+Es ist nicht immer nötig, alle Bemessungen  in die Ansicht hinzuzufügen, 
+z. B. wenn alle Kanten offenbar in der Ansicht in einer gleichen Ebene liegen.
+
+Es ist nicht immer nötig, alle Bemessungen  in die Ansicht `hinzuzufügen`, 
+z. B. wenn alle Kanten in einer gleichen Ebene liegen und es ist offenbar 
+in die Ansicht zu sehen.
 
 [oberhalb](collinsdictionary.com/dictionary/german-english/oberhalb) + GEN
 
@@ -21,8 +35,11 @@ Ich fuge das horizontale Maß hinzu, so dass es oberhalb des Bauteils wird.
 > die Bezugslinie
 > die Bezugsebene
 > die Bezugskante
+> die Grundebene
 
 Nehme den Abstand immer von einer Bezugslinie, Bezugsebene oder einer Bezugskante.
+Man soll die Maßlinien möglichst von der Grundebene ziehen hinzufügen.
+Die Bemaßungen sollen meist von der Grundebene hinzugefügt werden.
 
 [hinausragen](https://www.collinsdictionary.com/dictionary/german-english/hinausragen) 
 > über etwas / die Kante hisausragen
