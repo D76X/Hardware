@@ -13,6 +13,11 @@
 
 [FreeCAD Tutorial Deutsch 3 - Tech Draw Markus Mele-Schraven](https://www.youtube.com/watch?v=xkH4JNpHTsE&list=PLqYHHYhYGYWeDPcmPz4GSwEvV1map_bkm&index=3)  
 
+[positionieren](https://www.collinsdictionary.com/dictionary/german-english/positionieren)
+> die Bemaßung richtig positionieren
+> gegenseitig = im Bezug auf einander
+Die Teile genau gegenseitig positionieren.
+
 > der Radius
 > ein Durchmessermaß
 > die Bemaßung = die Bemessung
