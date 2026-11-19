@@ -13,6 +13,12 @@
 
 [FreeCAD Tutorial Deutsch 3 - Tech Draw Markus Mele-Schraven](https://www.youtube.com/watch?v=xkH4JNpHTsE&list=PLqYHHYhYGYWeDPcmPz4GSwEvV1map_bkm&index=3)  
 
+> die Bleche > die Metallbleche
+> eine Schweißkonstruktion
+> zusammenbauen > zusammenschweißen
+Diese Ansicht zeigt eine Schweißkonstruktion, 
+die mit Metallblechen zusammengebaut wird.
+
 [positionieren](https://www.collinsdictionary.com/dictionary/german-english/positionieren)
 > die Bemaßung richtig positionieren
 > gegenseitig = im Bezug auf einander
@@ -175,6 +181,8 @@ Die Teile mit der Bohrung soll koaxial sein.
 > die Außenkonturen dementsprechend bemaßen
 > ISO 2768
 > Kehlnat [throat suture welding] -> Schweißsymbol -> der Schweißsymbol hat einen Kringel
+> eine Schweißkonstruktion
+
 der [Kringel](https://www.collinsdictionary.com/dictionary/german-english/kringel) 
 [angeben](https://www.collinsdictionary.com/dictionary/german-english/angeben)
 [kuppeln](https://www.collinsdictionary.com/dictionary/german-english/kuppeln) [TECH. Mek.]
