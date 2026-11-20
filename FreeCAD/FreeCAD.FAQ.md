@@ -17,8 +17,6 @@ An assembly project focuses on **multi-part mechanical systems, mechanisms, and 
 * **Interference & Clearance:** Checking if mechanical components collide or fit tightly together.
 * **Bill of Materials (BOM):** Generating manufacturing parts lists, fastener counts, and step-by-step engineering drawings via `TechDraw`.
 
-
-
 ---
 
 ### 2. BIM / Architecture Project (AEC)
@@ -98,5 +96,23 @@ This video provides a direct visual comparison of how workflows differ between t
 [FreeCAD and 3Dconnexion Boost your workflow](https://3dconnexion.com/uk/applications/freecad-freecad/)  
 
 [FreeCAD + 3Dconnexion Optimiere deinen Workflow](https://3dconnexion.com/de/applications/freecad-freecad/)  
+
+---
+
+# How do I set FreeCAD to show a Plane from above?
+
+To view a plane from above in FreeCAD, switch to the Top camera view using the shortcut 2 (or View > Standard views > Top / the Top view toolbar icon). [1] (https://www.youtube.com/watch?v=QPZg2Y8Z8_w), [2] (https://www.youtube.com/watch?v=rxkmMTXDkZk)
+
+Making the Plane Visible (If Needed)
+
+• Origin planes: Expand your Body in the Model tree, select Origin, and press Spacebar (or click the eye visibility icon) to show the XY, XZ, and YZ planes.
+• Datum planes: Select the datum plane in the Model tree and press Spacebar if it is hidden.
+• Working plane (Draft workbench): Set the working plane to Top (XY) in the Draft plane controls if you are working in Draft. [1] (https://www.youtube.com/watch?v=vSqvENcXSvY&vl=en), [2] (https://forum.freecad.org/viewtopic.php?style=3&t=90790), [3] (https://www.youtube.com/watch?v=0AXm6Our05I)
+
+Switching to Top View
+
+• Press 2 on your keyboard to align the camera directly above the XY plane.
+• Click the Top view button on the view toolbar or choose View > Standard views > Top.
+• Press V, F (or click Fit all) if your plane or model is off-screen. [1] (https://www.youtube.com/watch?v=rxkmMTXDkZk), [2] (https://www.youtube.com/watch?v=QPZg2Y8Z8_w)
 
 ---
